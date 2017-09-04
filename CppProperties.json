@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "msvc-x64",
+      "includePath": [
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files (x86)\\Arduino\\libraries",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\pololu-a-star\\hardware\\avr\\3.0.1\\libraries",
+        "${projectRoot}..\\..\\..\\Documents\\Arduino\\libraries",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\hardware\\avr\\1.6.19\\variants\\leonardo",
+        "${projectRoot}..\\mypotatoe",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-arduino2\\avr\\include\\",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-arduino2\\avr\\include\\avr\\",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-arduino2\\lib\\gcc\\avr\\4.8.1\\include",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-arduino2\\lib\\gcc\\avr\\4.9.2\\include",
+        "${projectRoot}..\\..\\..\\AppData\\Local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-arduino2\\lib\\gcc\\avr\\4.9.3\\include"
+      ],
+      "defines": [
+        "__AVR_ATmega32u4__",
+        "__AVR_ATmega32U4__",
+        "F_CPU=16000000L",
+        "ARDUINO=10801",
+        "ARDUINO_AVR_A_STAR_32U4",
+        "ARDUINO_ARCH_AVR",
+        "USB_VID=0x1ffb",
+        "USB_PID=0x2300",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}
